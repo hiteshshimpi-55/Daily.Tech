@@ -1,10 +1,10 @@
-# News App
+# Daily.Tech News App
 
-Welcome to the News App! This app is designed to provide users with the latest news articles from various sources.
+Welcome to the Daily.Tech News App! This app is designed to provide users with the latest news articles from various sources.
 
 ## Features
 
-- Browse news articles from different categories.
+- Browse tech news.
 - Read detailed article descriptions and click through to the full articles.
 - Filter news articles based on user preferences.
 
@@ -56,8 +56,4 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+If you have any questions or need assistance, feel free to contact us at [shimpihitesh2@gmail.com](mailto: shimpihitesh2@gmail.com).
